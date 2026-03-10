@@ -38,3 +38,6 @@ yarn-error.*
 
 # Hide the .env
 config.json
+
+# env
+.env
