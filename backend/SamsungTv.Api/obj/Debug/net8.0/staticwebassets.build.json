@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3zLvb5OnfWpx/WKfdC67TWWOA2gQ3NI5eDW+BelY9EM=",
+  "Source": "SamsungTv.Api",
+  "BasePath": "_content/SamsungTv.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
